@@ -10,5 +10,5 @@ let rec prod (t:Tree) :int =
 let rec map (f:int->int) (t:Tree) :Tree =
     t
 
-let rec foldStr (nf:string -> string -> string) (lf:int->string) (t:Tree) :string =
+let rec foldStr (nf:string -> string -> strin (lf:int->string) (t:Tree) :string =
     ""
